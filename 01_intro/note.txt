@@ -1,0 +1,13 @@
+node -v
+
+node REVPL -> Read Eval Print Loop
+
+It is a computer environment where user inputs are read and evaluted and the results are returned to the user 
+
+after writing node we can come to node directory just like python 
+
+press in ctrl + c to exit the node terminal 
+
+we used to use Run JS files in Browser and now we can run it in terminal 
+that's all because of the node terminal
+
