@@ -1,0 +1,4 @@
+inquires package to get the user input
+use the qr-image to turnthe iser enterd url into a qr code image 
+now save the the user input using the native fs module 
+

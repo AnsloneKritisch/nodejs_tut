@@ -1,0 +1,27 @@
+NPM -> NOde Package Manager 
+
+it a commumity library where all coder devlop codes for us so that we can use it futture  
+
+npm init -> to create packages 
+
+now we use npm install <packagename>
+
+Here's the link -> https://www.npmjs.com/ 
+to download any npm package of your choice
+
+----------------------------------------------------------------
+I am adding type = module in my package.json 
+ask why 
+becasue i want to use import word to add new module is place of default one 
+
+Default add package :- 
+
+var generateName = require('sillyname');
+
+using import to add new module is place of default one
+
+import generateName from 'sillyname ' ;
+
+===================================================================
+
+link -> superhero npm -> https://www.npmjs.com/package/superheroes
