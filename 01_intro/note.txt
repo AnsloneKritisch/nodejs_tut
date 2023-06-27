@@ -11,3 +11,4 @@ press in ctrl + c to exit the node terminal
 we used to use Run JS files in Browser and now we can run it in terminal 
 that's all because of the node terminal
 
+node is runtime environment not a frame work 
